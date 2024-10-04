@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_1_loop.operator", "Ex_1_loop.operator\Ex_1_loop.operator.csproj", "{ACF9E19F-DAA8-43F4-9247-76990EFE7527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF9E19F-DAA8-43F4-9247-76990EFE7527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF9E19F-DAA8-43F4-9247-76990EFE7527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF9E19F-DAA8-43F4-9247-76990EFE7527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF9E19F-DAA8-43F4-9247-76990EFE7527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {837695B1-AF78-4B07-A4B3-4BD37C84D333}
+	EndGlobalSection
+EndGlobal
